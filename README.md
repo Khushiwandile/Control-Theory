@@ -9,12 +9,8 @@ In this course, you will embark on a journey to understand the core concepts and
 
 **CONTENTS:**
 
-1. **Introduction to Control Systems:** Basic concepts, open-loop vs. closed-loop control, key components.
-https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&ab_channel=BrianDouglas
-
-3. **Mathematical Foundations:** Linear algebra, calculus, differential equations, complex variables.
-4. **Classical Control Theory:** System modeling, time-domain and frequency-domain analysis, PID controllers.
-5. **Modern Control Theory:** State-space representation, controllability, observability, state feedback, and observers.
+1. **[Introduction to Control Systems and Classical Control Theory](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&ab_channel=BrianDouglas)** Basic concepts, open-loop vs. closed-loop control, key components,System modeling, time-domain and frequency-domain analysis, PID controllers
+2. **Modern Control Theory:** State-space representation, controllability, observability, state feedback, and observers.
 6. **Digital Control Systems:** Discrete-time systems, z-transform, digital controller design.
 7. **Advanced Topics:** Robust control, nonlinear control, adaptive control.
 8. **Applications and Case Studies:** Industry-specific applications, emerging fields, and practical projects.
