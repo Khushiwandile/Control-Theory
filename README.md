@@ -8,19 +8,19 @@ Welcome to the fascinating world of Control Theory, a field at the heart of mode
 In this course, you will embark on a journey to understand the core concepts and methodologies that underpin Control Theory. We will start with the foundational principles, exploring the basic components and structures of control systems. You will learn how to model dynamic systems, analyze their behavior, and design controllers that achieve desired performance specifications.
 
 
-**CONTENTS:** <br>
-1.**[INTRODUCTION](https://www.youtube.com/watch?v=lBC1nEq0_nk)** <br>
+**CONTENTS:** <br> <br>
+1.**[INTRODUCTION](https://www.youtube.com/watch?v=lBC1nEq0_nk)** <br><br>
 2. **Classical Control Theory** Basic concepts, open-loop vs. closed-loop control, key components,System modeling, time-domain and frequency-domain analysis, PID controllers <br>
-[CLASSICAL CONTROL BY BRIAN DOUGLAS](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&ab_channel=BrianDouglas) <br>
+[CLASSICAL CONTROL BY BRIAN DOUGLAS](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&ab_channel=BrianDouglas) <br><br>
 3. **Modern Control Theory** State-space representation, controllability, observability, state feedback, and observers <br>
-[MODERN CONTROL BY STEVE BRUNTON](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) <br>
+[MODERN CONTROL BY STEVE BRUNTON](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) <br><br>
 4. **Digital Control Systems:** Discrete-time systems, z-transform, digital controller design <br>
 [DISCRETE CONTROL BY BRIAN DOUGLAS](https://www.youtube.com/watch?v=14cMhrp5wlk&list=PLUMWjy5jgHK0MLv6Ksf-NHi7Ur8NRNU4Z&ab_channel=BrianDouglas) <br>
-[DIGITAL CONTROL BY DAALEN](https://www.youtube.com/playlist?list=PLCkNIs2gL3BGNABrGrXOuyZCRLJqVB8vB) - Only Digital Control part Vid-37 to 64 <br>
+[DIGITAL CONTROL BY DAALEN](https://www.youtube.com/playlist?list=PLCkNIs2gL3BGNABrGrXOuyZCRLJqVB8vB) - Only Digital Control part Vid-37 to 64 <br><br>
 5. **Advanced Topics:** Robust control, nonlinear control, adaptive control <br>
 [ADAPTIVE CONTROL](https://www.youtube.com/watch?v=wJsWF9q3ARQ&ab_channel=TanselYucelen) <br>
 [ROBUST CONTROL](https://www.youtube.com/playlist?list=PLn8PRpmsu08qFLMfgTEzR8DxOPE7fBiin) <br>
-[NON LINEAR CONTROL](https://www.youtube.com/playlist?list=PLhdVEDm7SZ-MqSUpBw78Cb2BmI142R2VA) <br>
+[NON LINEAR CONTROL](https://www.youtube.com/playlist?list=PLhdVEDm7SZ-MqSUpBw78Cb2BmI142R2VA) <br><br>
 6. **BONUS** Learn to design and simulate your control system <br>
 [SIMULATION](https://www.youtube.com/watch?v=WkKZ5311YYI&ab_channel=MATLAB) <br>
 
