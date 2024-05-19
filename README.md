@@ -3,6 +3,7 @@ Summer of Science
 ### Introduction to Control Theory
 
 Welcome to the fascinating world of Control Theory, a field at the heart of modern engineering and technology. Control Theory provides the essential principles and techniques needed to design systems that behave in a desired manner. Whether it's stabilizing an aircraft in turbulent weather, maintaining the speed of a car, or controlling the temperature in a chemical reactor, control systems are fundamental to a wide array of applications that impact our daily lives and drive technological advancements.
+![Control_Map_ver5](https://github.com/Khushiwandile/Control-Theory/assets/126663361/dcb6ddb3-b807-4ff0-a2ed-609c15fbcba4)
 
 
 In this course, you will embark on a journey to understand the core concepts and methodologies that underpin Control Theory. We will start with the foundational principles, exploring the basic components and structures of control systems. You will learn how to model dynamic systems, analyze their behavior, and design controllers that achieve desired performance specifications.
