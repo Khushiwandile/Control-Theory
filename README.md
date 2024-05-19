@@ -23,7 +23,7 @@ In this course, you will embark on a journey to understand the core concepts and
 [ADAPTIVE CONTROL](https://www.youtube.com/watch?v=wJsWF9q3ARQ&ab_channel=TanselYucelen) <br>
 [ROBUST CONTROL](https://www.youtube.com/playlist?list=PLn8PRpmsu08qFLMfgTEzR8DxOPE7fBiin) <br>
 [NON LINEAR CONTROL](https://www.youtube.com/playlist?list=PLhdVEDm7SZ-MqSUpBw78Cb2BmI142R2VA) <br><br>
-6. **BONUS** Learn to design and simulate your control system <br>
+6. :triangular_flag_on_post:**BONUS** Learn to design and simulate your control system <br>
 [SIMULATION](https://www.youtube.com/watch?v=WkKZ5311YYI&ab_channel=MATLAB) <br>
 
 **BOOKS:** <br>
