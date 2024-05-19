@@ -2,7 +2,7 @@
 Summer of Science :sun_with_face: :sun_with_face: :sun_with_face:
 ### Introduction to Control Theory
 
-Welcome to the fascinating world of Control Theory, a field at the heart of modern engineering and technology. Control Theory provides the essential principles and techniques needed to design systems that behave in a desired manner. Whether it's stabilizing an aircraft in turbulent weather, maintaining the speed of a car, or controlling the temperature in a chemical reactor, control systems are fundamental to a wide array of applications that impact our daily lives and drive technological advancements.
+Welcome to the fascinating world of Control Theory, a field at the :heart: of modern engineering and technology. Control Theory provides the essential principles and techniques needed to design systems that behave in a desired manner. Whether it's stabilizing an aircraft in turbulent weather, maintaining the speed of a :car:, or controlling the :thermometer: in a chemical reactor, control systems are fundamental to a wide array of applications that impact our daily lives and drive technological advancements.
 ![Control_Map_ver5 (1)](https://github.com/Khushiwandile/Control-Theory/assets/126663361/fa6e1e06-3249-4d21-8a91-f24138be3535)
 
 
