@@ -7,15 +7,17 @@ Welcome to the fascinating world of Control Theory, a field at the heart of mode
 In this course, you will embark on a journey to understand the core concepts and methodologies that underpin Control Theory. We will start with the foundational principles, exploring the basic components and structures of control systems. You will learn how to model dynamic systems, analyze their behavior, and design controllers that achieve desired performance specifications.
 
 
-**Course Structure:**
+**CONTENTS:**
 
 1. **Introduction to Control Systems:** Basic concepts, open-loop vs. closed-loop control, key components.
-2. **Mathematical Foundations:** Linear algebra, calculus, differential equations, complex variables.
-3. **Classical Control Theory:** System modeling, time-domain and frequency-domain analysis, PID controllers.
-4. **Modern Control Theory:** State-space representation, controllability, observability, state feedback, and observers.
-5. **Digital Control Systems:** Discrete-time systems, z-transform, digital controller design.
-6. **Advanced Topics:** Robust control, nonlinear control, adaptive control.
-7. **Applications and Case Studies:** Industry-specific applications, emerging fields, and practical projects.
+https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&ab_channel=BrianDouglas
+
+3. **Mathematical Foundations:** Linear algebra, calculus, differential equations, complex variables.
+4. **Classical Control Theory:** System modeling, time-domain and frequency-domain analysis, PID controllers.
+5. **Modern Control Theory:** State-space representation, controllability, observability, state feedback, and observers.
+6. **Digital Control Systems:** Discrete-time systems, z-transform, digital controller design.
+7. **Advanced Topics:** Robust control, nonlinear control, adaptive control.
+8. **Applications and Case Studies:** Industry-specific applications, emerging fields, and practical projects.
 
 By the end of this course, you will have developed a comprehensive understanding of Control Theory and its applications, equipping you with the knowledge and skills to tackle complex engineering challenges. Let's dive in and explore the powerful world of control systems!
 Happy Learning ☺☺☺
