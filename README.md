@@ -25,5 +25,9 @@ In this course, you will embark on a journey to understand the core concepts and
 6. **BONUS** Learn to design and simulate your control system <br>
 [SIMULATION](https://www.youtube.com/watch?v=WkKZ5311YYI&ab_channel=MATLAB) <br>
 
+**BOOKS:**
+[Zdzislaw Bubnicki](https://theswissbay.ch/pdf/Gentoomen%20Library/Misc/Modern%20Control%20Theory.pdf) <br>
+[Norman Nise](https://gnindia.dronacharya.info/EEE/5thSem/Downloads/ControlSystem/Books/CONTROL-SYSTEM-REFERENCE-BOOK-2.pdf)
+
 By the end of this course, you will have developed a comprehensive understanding of Control Theory and its applications, equipping you with the knowledge and skills to tackle complex engineering challenges. Let's dive in and explore the powerful world of control systems!
 Happy Learning ☺☺☺
