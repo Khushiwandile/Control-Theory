@@ -4,11 +4,12 @@ Summer of Science
 
 Welcome to the fascinating world of Control Theory, a field at the heart of modern engineering and technology. Control Theory provides the essential principles and techniques needed to design systems that behave in a desired manner. Whether it's stabilizing an aircraft in turbulent weather, maintaining the speed of a car, or controlling the temperature in a chemical reactor, control systems are fundamental to a wide array of applications that impact our daily lives and drive technological advancements.
 
+
 In this course, you will embark on a journey to understand the core concepts and methodologies that underpin Control Theory. We will start with the foundational principles, exploring the basic components and structures of control systems. You will learn how to model dynamic systems, analyze their behavior, and design controllers that achieve desired performance specifications.
 
 
 **CONTENTS:** <br>
-1.**[Introduction](https://www.youtube.com/watch?v=lBC1nEq0_nk)** <br>
+1.**[INTRODUCTION](https://www.youtube.com/watch?v=lBC1nEq0_nk)** <br>
 2. **Classical Control Theory** Basic concepts, open-loop vs. closed-loop control, key components,System modeling, time-domain and frequency-domain analysis, PID controllers <br>
 [CLASSICAL CONTROL BY BRIAN DOUGLAS](https://www.youtube.com/watch?v=oBc_BHxw78s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&ab_channel=BrianDouglas) <br>
 3. **Modern Control Theory** State-space representation, controllability, observability, state feedback, and observers <br>
