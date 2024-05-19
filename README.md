@@ -1,5 +1,5 @@
 # Control-Theory
-Summer of Science
+Summer of Science :sun_with_face: :sun_with_face: :sun_with_face:
 ### Introduction to Control Theory
 
 Welcome to the fascinating world of Control Theory, a field at the heart of modern engineering and technology. Control Theory provides the essential principles and techniques needed to design systems that behave in a desired manner. Whether it's stabilizing an aircraft in turbulent weather, maintaining the speed of a car, or controlling the temperature in a chemical reactor, control systems are fundamental to a wide array of applications that impact our daily lives and drive technological advancements.
@@ -30,5 +30,5 @@ In this course, you will embark on a journey to understand the core concepts and
 [Zdzislaw Bubnicki](https://theswissbay.ch/pdf/Gentoomen%20Library/Misc/Modern%20Control%20Theory.pdf) <br>
 [Norman Nise](https://gnindia.dronacharya.info/EEE/5thSem/Downloads/ControlSystem/Books/CONTROL-SYSTEM-REFERENCE-BOOK-2.pdf)
 
-By the end of this course, you will have developed a comprehensive understanding of Control Theory and its applications, equipping you with the knowledge and skills to tackle complex engineering challenges. Let's dive in and explore the powerful world of control systems!
-Happy Learning ☺☺☺
+By the end of this course, you will have developed a comprehensive understanding of Control Theory and its applications, equipping you with the knowledge and skills to tackle complex engineering challenges. Let's dive in and explore the powerful world of control systems! <br>
+Happy Learning :smile: :smile: :smile:
